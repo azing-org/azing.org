@@ -9,7 +9,7 @@ Welcome to azing.org issue management. It's a simple github section to report an
 Please note that to use this, you need a github account. We're sorry for the inconvenience, but it was important to use something out of the box for now, until we have a better solution. 
 
 * [existing wishes and issues](https://github.com/azing-org/azing.org/issues) 
-* [post new wish or issu](https://github.com/azing-org/azing.org/issues/new)
+* post new [wish](https://github.com/azing-org/azing.org/issues/new?assignees=&labels=&template=feature_request.md&title=Feat:) or [issue](https://github.com/azing-org/azing.org/issues/new?assignees=&labels=&template=bug_report.md&title=Bug:)
 
 
 ## Deutsch: azing.org Wunsch- und Fehlermeldungen
@@ -21,4 +21,4 @@ Um Meldungen abzuetzen brauchst du leider ein Github-Konto. Tut uns leid, falls 
 Falls es dir möglich ist, bitten wir dich, die Meldungen in English zu verfassen; falls das nicht geht, verstehen wir auch Deutsch, aber andere Anwender können dann weniger gut mitdiskutieren. 
 
 * [Bestehenden Wünsche und Meldungen](https://github.com/azing-org/azing.org/issues) 
-* [Neuen Wunsch oder Meldung erfassen](https://github.com/azing-org/azing.org/issues/new)
+* Neuen [Wunsch](https://github.com/azing-org/azing.org/issues/new?assignees=&labels=&template=feature_request.md&title=Feat:) oder [Meldung](https://github.com/azing-org/azing.org/issues/new?assignees=&labels=&template=bug_report.md&title=Bug:) erfassen
